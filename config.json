@@ -1,17 +1,17 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
-    "ownerName": "Lexxy Official", 
+    "ownerNumber": "6283193831650@s.whatsapp.net", 
+    "ownerName": "Arsyad Official", 
     "botName": "Neobot",
     "footer": "© BOTMD | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
     
-    "limitCount": 100,
+    "limitCount": 20,
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
-        "author": "Lexxy Official"
+        "packname": "© neo bot",
+        "author": "Arsyad Official"
     }
 }
